@@ -7,3 +7,4 @@ for(  x in emp)
 {
     console.log(emp[x])
 }
+
