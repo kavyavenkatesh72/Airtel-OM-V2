@@ -8,5 +8,7 @@ function add(){
 }
 add()
 class Employee{}
+let a1=new Employee()
+console.log(a1)
 var product={name:"Iphone 12",price:30}
 console.log(product)
